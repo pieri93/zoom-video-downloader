@@ -11,7 +11,7 @@ Before using the download scripts you need to configure your Zoom API credential
 - `CLIENT_SECRET=""`
 - `BASE64_ENCODED=""`
 - `ACCOUNT_ID=""`
-- `ID_SALA=""`
+- `ID_ROOM=""`
 
 You can obtain these values by creating in the App Marketplace from Zoom, a Server-to-Server OAuth app to obtain the accound_id, client_id and client_secret. 
 
